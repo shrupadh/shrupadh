@@ -1,12 +1,13 @@
-# Hi, there👋
 
-## About Me
+# Hi there 👋
 
-I'm passionate about applying **Data Science, Machine Learning, Bioinformatics, and Statistical Learning** to solve real-world problems. My GitHub showcases projects focused on predictive modeling, data analysis, bioinformatics, and software development.
+Welcome to my GitHub!
+
+I'm passionate about **Data Science, Machine Learning, Bioinformatics, and Statistical Learning**. This GitHub serves as my portfolio, where I share projects, explore new technologies, and continue developing practical skills through hands-on applications.
 
 ---
 
-## Areas of Interest
+## 🔬 Areas of Interest
 
 * Machine Learning
 * Data Science
@@ -19,71 +20,90 @@ I'm passionate about applying **Data Science, Machine Learning, Bioinformatics, 
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-### Programming Languages
+### Programming
 
 * Python
 * R
 * SQL
 * MATLAB
-* Bash (Linux)
+
+### Data Science & Machine Learning
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Predictive Modeling
+* Machine Learning
+* Statistical Machine Learning
+* Hypothesis Testing
+* Regression Analysis
+* Classification
+* Cross-Validation
+* Model Evaluation
 
 ### Python Libraries
 
-* Pandas
+* pandas
 * NumPy
-* Scikit-learn
+* scikit-learn
 * Matplotlib
 * Seaborn
 
-### Bioinformatics Tools
+### Data Visualization
 
+* Matplotlib
+* Seaborn
+* Power BI
+
+### Big Data
+
+* PySpark
+* Databricks
+
+### Bioinformatics
+
+* RNA-seq
+* Medical Image Analysis
+* Sequence Analysis
 * BLAST
-* BWA
-* SAMtools
-* IGV
 
-### Data Science & Development Tools
+### Development Tools
 
-* Git & GitHub
+* Git
+* GitHub
+* Linux
 * Jupyter Notebook
-* RStudio
-* VS Code
+* Visual Studio Code
+* R Markdown
+* PyCharm
 
 ---
 
-## Featured Repositories
+## 📂 Featured Projects
 
 * 📊 Statistical Machine Learning
 * 🧬 Bioinformatics Projects
 * 📄 NLP TF-IDF Document Summarization
 * 🔬 MATLAB Cell Counter
-* 🦠 Infection Distribution Analysis in R
 * 💾 SQL Database Projects
+* 📈 Data Science & Machine Learning Projects
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
 * AWS
 * Nextflow
-* RNA-seq Data Analysis
 * Advanced Machine Learning
 * Cloud Computing
+* Scalable Bioinformatics Workflows
+
 
 ---
 
-## GitHub Goals
-
-* Build high-quality machine learning projects.
-* Develop reproducible bioinformatics workflows.
-* Expand my data science portfolio with real-world applications.
-* Continuously learn and apply new analytical techniques.
-
----
-
-## Let's Connect
+## 📫 Connect with Me
 
 * 💼 LinkedIn: *()*
 * 💻 GitHub: https://github.com/shrupadh
