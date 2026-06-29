@@ -1,4 +1,4 @@
-# Hi, I'm Shradha Upadhyay 👋
+# Hi, there👋
 
 ## About Me
 
